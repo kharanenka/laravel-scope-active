@@ -7,8 +7,8 @@
  *
  * @property bool $active
  * 
- * @method static \Illuminate\Database\Eloquent\Builder|\October\Rain\Database\Builder|$this|ActiveField active()
- * @method static \Illuminate\Database\Eloquent\Builder|\October\Rain\Database\Builder|$this|ActiveField notActive()
+ * @method static $this active()
+ * @method static $this notActive()
  */
 
 trait ActiveField {
