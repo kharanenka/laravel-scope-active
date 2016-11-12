@@ -1,6 +1,6 @@
 # Trait ActiveField
  
- You can use trait in your models with "active" filed (bool)
+ You can use trait in your models with "active" field (bool)
  
 #Installation
 Require this package in your `composer.json` and update composer.
